@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andresmtr
-- 👀 I'm interested in Python, Data Science, Dash and visualization data
-- 🌱 I’m currently Python, Dash and more
+- 👀 I'm interested in Python, Data Science, Dash, visualization data and backend develop with django
+- 🌱 I’m currently Python, Dash, Plotly, Django, Pandas and more
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 
