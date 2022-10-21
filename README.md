@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://andrestrianareina.pythonanywhere.com](https://andrestrianareina.pythonanywhere.com)
 
-- 📝 I regularly write articles on [https://andrestrianareina.pythonanywhere.com](https://andrestrianareina.pythonanywhere.com)
+<!-- - 📝 I regularly write articles on [https://andrestrianareina.pythonanywhere.com](https://andrestrianareina.pythonanywhere.com) -->
 
 - 💬 Ask me about **Python and Data**
 
