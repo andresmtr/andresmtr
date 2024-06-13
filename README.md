@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in the position **Data Analytics Expert**
 
-- 🌱 I’m currently working **Python**, with **Web Scraping, Machine Learning, Deep Learning, Data Science and Django**
+- 🌱 I’m currently working with **Python**, focusing on **Web Scraping, Machine Learning, Deep Learning, Data Science, and Django**.
 
 - 👯 I’m looking to collaborate on **Python**
 
