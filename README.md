@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrés Triana</h1>
 <h3 align="center">Love data and Learning all the time</h3>
 
-- 🔭 I’m currently working in the position **Data Analytics Expert**
+- 🔭 I’m currently working in the position **Data science**
 
 - 🌱 I’m currently working with **Python**, focusing on **Web Scraping, Machine Learning, Deep Learning, Data Science, and Django**.
 
